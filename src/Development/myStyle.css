@@ -1,0 +1,52 @@
+.design{
+    background-color: gray;
+    border-radius: 16px;
+    padding: 16px ;
+    width : 88%;
+    height : auto;
+    margin : 0 auto;
+    color : #ffffff;
+    box-shadow: #32325d40 2px 30px 60px -12px, #ac1b1b4d 1px 30px 36px -18px;
+}
+
+#quest{
+    color: blue;
+    font-size: 24px;
+}
+
+ul{
+    list-style: none;
+} 
+
+li{
+    background-color: darkgrey;
+    padding: 16px;
+    border-radius:20px;
+    border: 3px solid #eee;
+    margin : 8px 0px 0px 0px
+
+}
+
+.final-result{
+    background-color: gray;
+    border-radius: 16px;
+    padding: 16px ;
+    width : 50%;
+    height : auto;
+    margin : 0 auto;
+    color : #ffffff;
+    box-shadow: #32325d40 2px 30px 60px -12px, #ac1b1b4d 1px 30px 36px -18px;
+}
+   
+button{
+    background-color:red;
+    border : none;
+    color: #eee;
+    padding : 16px 24px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 24px;
+
+}   
